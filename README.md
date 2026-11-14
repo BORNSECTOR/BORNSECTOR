@@ -42,7 +42,7 @@
 | Project | Domain | Architecture & Status | Access |
 | :--- | :--- | :--- | :---: |
 | ⚡ **CORDOK** | AI Development Platform | Next-gen collaborative IDE, live execution workspaces & AI copilots | [cordok.com ↗](https://cordok.com) |
-| 🔥 **BORNSEO** | Search Engine Optimization | Technical SEO auditing, Core Web Vitals optimization & schema pipeline | [Audit Engine ↗](https://about.bornsector.me) |
+| 🔥 **BORNSEO** | Search Engine Optimization | Technical SEO auditing, Core Web Vitals optimization & schema pipeline | [Tool↗](https://about.bornsector.me) |
 | 👑 **BORNSECTOR NATION** | Creative & Tech Syndicate | Volcanic monolith ecosystem: Gaming, Dev, Audio & Digital Products | [Explore ↗](https://bornsector.me) |
 | 👑 **Himachal Thermon Roofing** | Creative & Tech Syndicate | Volcanic monolith ecosystem: Gaming, Dev, Audio & Digital Products | [Explore ↗](https://himachalthermoinsulation.tech/) |
 
